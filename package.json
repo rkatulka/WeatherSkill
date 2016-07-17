@@ -1,6 +1,7 @@
 {
   "dependencies" : {
     "async": "*",
-    "http": "*"
+    "http": "*",
+    "https": "*"
   }
 }
